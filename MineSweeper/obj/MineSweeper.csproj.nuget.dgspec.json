@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victor\\Downloads\\MinerSweeper\\MineSweeper\\MineSweeper.csproj": {}
+    "C:\\Users\\axels\\source\\repos\\MineSweeper\\MineSweeper\\MineSweeper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victor\\Downloads\\MinerSweeper\\MineSweeper\\MineSweeper.csproj": {
+    "C:\\Users\\axels\\source\\repos\\MineSweeper\\MineSweeper\\MineSweeper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victor\\Downloads\\MinerSweeper\\MineSweeper\\MineSweeper.csproj",
+        "projectUniqueName": "C:\\Users\\axels\\source\\repos\\MineSweeper\\MineSweeper\\MineSweeper.csproj",
         "projectName": "MineSweeper",
-        "projectPath": "C:\\Users\\victor\\Downloads\\MinerSweeper\\MineSweeper\\MineSweeper.csproj",
-        "packagesPath": "C:\\Users\\victor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victor\\Downloads\\MinerSweeper\\MineSweeper\\obj\\",
+        "projectPath": "C:\\Users\\axels\\source\\repos\\MineSweeper\\MineSweeper\\MineSweeper.csproj",
+        "packagesPath": "C:\\Users\\axels\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\axels\\source\\repos\\MineSweeper\\MineSweeper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\axels\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
